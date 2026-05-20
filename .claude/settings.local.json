@@ -6,7 +6,9 @@
       "Bash(git branch *)",
       "Bash(git add *)",
       "Bash(git commit -m 'docs: Initial integration of Academic Research Skills *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(git pull *)",
+      "Bash(git commit *)"
     ]
   }
 }
