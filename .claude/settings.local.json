@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone *)",
+      "Bash(git remote *)",
+      "Bash(git branch *)",
+      "Bash(git add *)",
+      "Bash(git commit -m 'docs: Initial integration of Academic Research Skills *)",
+      "Bash(git push *)"
+    ]
+  }
+}
